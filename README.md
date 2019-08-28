@@ -9,7 +9,7 @@ Create a class called Warrior which calculates and keeps track of their level an
 - A `warrior` starts at level 1 and can progress all the way to 100.
 - A `warrior` starts at rank *"Pushover"* and can progress all the way to *"Greatest"*.
 - The only acceptable range of rank values is *"Pushover"*, *"Novice"*, *"Fighter"*, *"Warrior"*, *"Veteran"*, *"Sage"*, *"Elite"*, *"Conqueror"*, *"Champion"*, *"Master"*, *"Greatest"*.
-- Warriors will compete in battles. Battles will always accept an enemy level to match against your own.
+- Warriors will compete in *battles*. Battles will always accept an enemy level to match against your own.
 - With each battle successfully finished, your warrior's experience is updated based on the enemy's level.
 - The experience earned from the battle is relative to what the warrior's current level is compared to the level of the enemy.
 - A warrior's experience starts from 100. Each time the warrior's experience increases by another 100, the warrior's level rises to the next level.
